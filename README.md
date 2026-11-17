@@ -4,7 +4,7 @@ A cue player for awards nights and live events. Line up short music "stings", pr
 
 **[⬇ Download Stings for Mac](https://github.com/remi-sustainablechoice/stings/releases/latest/download/Stings.zip)** · macOS 13 Ventura or later · Apple Silicon and Intel
 
-![Stings mid-show: the song playing with its cover art, the next song on standby, and played labels on the songs already used](screenshots/show.png)
+![Stings mid-show: the song playing with its cover art, the next song on standby, and played labels on the songs already used](screenshots/show-1.2.png)
 
 ## Features
 
@@ -24,13 +24,13 @@ A cue player for awards nights and live events. Line up short music "stings", pr
 2. Open Stings and choose a folder of music (MP3, M4A, AAC, WAV, AIFF or FLAC).
 3. Audition each song, set its start point, and you're ready.
 
-![Auditioning a song to set its start point](screenshots/audition.png)
+![Auditioning a song to set its start point](screenshots/audition-1.2.png)
 
 Your settings are saved in a file called `Stings Show.json` inside the music folder, so copying the folder to another Mac copies the whole show.
 
 On a laptop screen the controls stack above the running order, so nothing overlaps:
 
-<img src="screenshots/compact.png" alt="Stings in a smaller window" width="560">
+<img src="screenshots/compact-1.2.png" alt="Stings in a smaller window" width="560">
 
 *Songs and artists in the screenshots are made up.*
 
